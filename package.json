@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "benchmark": "^2.1.4",
+    "global": "^4.3.2",
     "lodash": "^4.17.10",
     "travis-benchmark": "^0.0.6"
   }
