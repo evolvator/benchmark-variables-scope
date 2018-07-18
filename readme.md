@@ -2,6 +2,8 @@
 
 What is the difference in speed between visibility scopes of variables?
 
+## [DEPRICATED](https://github.com/orgs/evolvator/projects?utf8=%E2%9C%93&query=is%3Aclosed+Tasks+v0)
+
 [![Build Status](https://travis-ci.org/evolvator/benchmark-variables-scope.svg?branch=code)](https://travis-ci.org/evolvator/benchmark-variables-scope)
 
 [Executable code](https://github.com/evolvator/benchmark-variables-scope/tree/code)
